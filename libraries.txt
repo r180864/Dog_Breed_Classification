@@ -1,0 +1,8 @@
+Necessary Libraries to implement the model:
+
+1. TensoeFlow	--> pip install tensorflow
+2. Numpy	--> pip install numpy
+3. Pillow(PIL)	--> pip install pillow
+4. Streamlit	--> pip install streamlit
+
+5. After Installing these modules, run app.py --> python -m streamlit run app.py
