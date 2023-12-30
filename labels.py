@@ -1,3 +1,5 @@
+#120 categories of Dogs
+
 class_names=['affenpinscher',
  'afghan_hound',
  'african_hunting_dog',

@@ -1,4 +1,4 @@
-#importing Mecessary Libraries
+#importing Necessary Libraries
 
 import streamlit as st
 import tensorflow as tf
